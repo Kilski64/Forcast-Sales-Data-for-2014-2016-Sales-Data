@@ -12,7 +12,7 @@ This project features an interactive Excel dashboard designed to forecast short-
 ## Setup
 1. **Prerequisites**: Microsoft Excel (2016 or later recommended) to support XLOOKUP and dashboard features.
 2. **Download**: Clone or download the repository:
-3. 3. **Open the File**: Open `Retail Sales for 2014-2016 Dashboard.xlsx` in Excel. Ensure macros are enabled if prompted (no macros used in this version, but enable for compatibility).
+3. **Open the File**: Open `Retail Sales for 2014-2016 Dashboard.xlsx` in Excel. Ensure macros are enabled if prompted (no macros used in this version, but enable for compatibility).
 4. **Data**: The Excel file includes a sanitized dataset (2014-2016 sales) with a hidden table containing year, week, actual, forecast values, and error metrics.
 
 ## Usage
